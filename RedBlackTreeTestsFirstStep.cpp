@@ -13,7 +13,7 @@
  * 	+ The Insert() function to insert only one node
  * 	+ The ToInfixString() function to print a tree containing only one node
  * 
-**/
+**/ 
 
 using namespace std;
 
